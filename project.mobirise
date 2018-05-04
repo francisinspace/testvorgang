@@ -23,8 +23,8 @@
         "display7Size": "1.2",
         "display4Font": "Oswald",
         "display4Size": 1,
-        "isRoundedButtons": true,
-        "isAnimatedOnScroll": false,
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       },
       "additionalSetColors": []
